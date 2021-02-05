@@ -20,5 +20,9 @@
 // console.log(num);
 // let array = [10,12,15];
 // console.log(array[10]);
-let num = null;
-console.log(num);
+// let num = null;
+// console.log(num);
+function dosomething(x,y){
+    console.log(y);
+}
+dosomething(34);
